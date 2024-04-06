@@ -64,8 +64,6 @@ public class Main /*lista_ex_01_anexo_b*/ {
         } catch (Exception e) {
           System.out.println(e.getMessage());  
         }
-        
-        
     }
 }
 
