@@ -1,3 +1,3 @@
 # Java 
 
-Programa e projetos java desenvolvido por minha pessoa Eric Matias 
+Programas e projetos java desenvolvido por minha pessoa Eric Matias 
